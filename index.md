@@ -1,13 +1,25 @@
-# CALL FOR BOOK CHAPTER PROPOSALS
-## Call For Chapters
+# Artificial Intelligence for Cyber-Physical Systems Hardening
+## Call for Book Chpater Proposals
 
-You can use the [editor on GitHub](https://github.com/ebinsaad/AI4CPSBook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A book edited by:
+- Dr. Issa Traore, ECE Department, University of Victoria,
+- Dr. Isaac Woungang, Department of Computer Science, Ryerson University
+- Dr. Sherif Saad, School of Computer Science, University of Windsor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To be published by **Springer** 
 
-### Markdown
+### Overview
+The merging of computer systems and physical-mechanical systems led to the creation of Cyber-Physical Systems (CPS). A cyber-physical system combines software systems, sensors, and actuators connected over computer networks. Through these sensors, data about the physical world can be captured for processing. The software system processes the captured data from the sensors and makes decisions. The decisions are sent as signals to trigger the actuators to perform specific actions that affect the state of the physical world. Today examples of cyber-physical systems are everywhere, from autonomous vehicles to wearable devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The fact that CPS directly impacts the physical world made the security and trust of cyber-physical systems a significant concern. The complexity and the scale of CPS introduced various security, privacy and trust challenges that traditional security engineering practices cannot handle.
+
+The application of Artificial Intelligence (AI) for cyber-physical systems hardening encompasses various techniques, methodologies and best practices to mitigate vulnerabilities and security risks in CPS by eliminating potential security threats and reducing the systems’ attack surface. The book focuses on the applications of artificial intelligence in hardening CPS against conventional and unconventional attack vectors. It covers diverse methods and techniques for hardening software, hardware, firmware, infrastructure, and communication channels in CPS.
+
+### Objectives
+This book aims to publish high-quality original research contributions on theory and applied aspects of engineering secure Cyber-Physical Systems by lever artificial intelligence. It seeks to strengthen the body of knowledge by providing insights into techniques for hardening software, hardware, firmware, infrastructure, and communication channels in CPS.
+
+### Intended audience
+This book will be helpful for senior undergraduate and graduate students interested in cyber-physical systems hardening in computer science and engineering.  Professionals  and researchers interested in cyber-physical systems and the application of AI in systems hardening will gain an in-depth overview of the current state-of-the-art.
 
 ```markdown
 Syntax highlighted code block

@@ -37,7 +37,9 @@ Recommended topics for chapters include, but are not limited to, the following:
 11. Attack Tolerance and Mitigation Techniques in Cyber-Physical Systems
 12. AI and Machine Learning for Hardware and Physical Security in Cyber-Physical System
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Submission Procedure
+Researchers and practitioners are invited to submit on or before November 10, 2022, a 1-3 pages’ chapter proposal in printable PDF format clearly explaining the mission and concerns of the proposed chapter. Authors of accepted proposals will be notified by November 15, 2022 about the status of their proposal and sent chapter organizational guidelines. All submitted chapters will be subject to peer
+review. 
 
 ### Important Dates
 - Chapter proposal submission: November 10, 2021
@@ -47,8 +49,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Revised chapter submission: March 15, 2022
 - Final Acceptance notification: April 1, 2022
 - Submission of final chapters: April 15, 2022
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

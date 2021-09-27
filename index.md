@@ -51,4 +51,4 @@ review.
 - Submission of final chapters: April 15, 2022
 
 ### Support or Inquiries
-Inquiries and submissions can be forwarded by e-mail to any of the book editors at itraore@ece.uvic.ca or iwoungan@scs.ryerson.ca or shsaad@uwindsor.ca
+Inquiries about submissions can be forwarded by e-mail to any of the book editors at itraore@ece.uvic.ca or iwoungan@scs.ryerson.ca or shsaad@uwindsor.ca

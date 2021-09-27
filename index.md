@@ -49,3 +49,6 @@ review.
 - Revised chapter submission: March 15, 2022
 - Final Acceptance notification: April 1, 2022
 - Submission of final chapters: April 15, 2022
+
+### Support or Inquiries
+Inquiries and submissions can be forwarded by e-mail to any of the book editors at itraore@ece.uvic.ca or iwoungan@scs.ryerson.ca or shsaad@uwindsor.ca

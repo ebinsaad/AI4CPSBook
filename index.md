@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# CALL FOR BOOK CHAPTER PROPOSALS
+## Call For Chapters
 
 You can use the [editor on GitHub](https://github.com/ebinsaad/AI4CPSBook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

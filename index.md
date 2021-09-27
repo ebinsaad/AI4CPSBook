@@ -22,22 +22,20 @@ This book aims to publish high-quality original research contributions on theory
 This book will be helpful for senior undergraduate and graduate students interested in cyber-physical systems hardening in computer science and engineering.  Professionals  and researchers interested in cyber-physical systems and the application of AI in systems hardening will gain an in-depth overview of the current state-of-the-art.
 
 ### Reconneded Topics
-```markdown
 Recommended topics for chapters include, but are not limited to, the following:
 
-- Cybersecurity automation and scalability
-- Applied AI for Security Testing and Validation in Cyber-Physical Systems
-- Machine learning and deep learning techniques for Cyber-Physical Systems Security
-- AI-based solutions for usable security in Cyber-Physical Systems
-- Attack Modelling and Attack Surface Estimation
-- Mitigation of cyber risks in Cyber-Physical Systems
-- Forensics and Incident Response in Cyber-Physical Systems
-- Adversarial Machine Learning for Cyber-Physical Systems
-- Intelligent Attack Detection and Prevention in Cyber-Physical Systems
-- AI and behavioural-based Access Control Solutions in Cyber-Physical Systems
-- Attack Tolerance and Mitigation Techniques in Cyber-Physical Systems
-- AI and Machine Learning for Hardware and Physical Security in Cyber-Physical System
-```
+1. Cybersecurity automation and scalability
+2. Applied AI for Security Testing and Validation in Cyber-Physical Systems
+3. Machine learning and deep learning techniques for Cyber-Physical Systems Security
+4. AI-based solutions for usable security in Cyber-Physical Systems
+5. Attack Modelling and Attack Surface Estimation
+6. Mitigation of cyber risks in Cyber-Physical Systems
+7. Forensics and Incident Response in Cyber-Physical Systems
+8. Adversarial Machine Learning for Cyber-Physical Systems
+9. Intelligent Attack Detection and Prevention in Cyber-Physical Systems
+10. AI and behavioural-based Access Control Solutions in Cyber-Physical Systems
+11. Attack Tolerance and Mitigation Techniques in Cyber-Physical Systems
+12. AI and Machine Learning for Hardware and Physical Security in Cyber-Physical System
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

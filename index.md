@@ -1,3 +1,5 @@
+# CALL FOR BOOK CHAPTER PROPOSALS
+
 # Artificial Intelligence for Cyber-Physical Systems Hardening
 
 A book edited by:

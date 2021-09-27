@@ -1,5 +1,4 @@
 # Artificial Intelligence for Cyber-Physical Systems Hardening
-## Call for Book Chpater Proposals
 
 A book edited by:
 - Dr. Issa Traore, ECE Department, University of Victoria,

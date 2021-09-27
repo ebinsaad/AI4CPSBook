@@ -21,29 +21,35 @@ This book aims to publish high-quality original research contributions on theory
 ### Intended audience
 This book will be helpful for senior undergraduate and graduate students interested in cyber-physical systems hardening in computer science and engineering.  Professionals  and researchers interested in cyber-physical systems and the application of AI in systems hardening will gain an in-depth overview of the current state-of-the-art.
 
+### Reconneded Topics
 ```markdown
-Syntax highlighted code block
+Recommended topics for chapters include, but are not limited to, the following:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Cybersecurity automation and scalability
+- Applied AI for Security Testing and Validation in Cyber-Physical Systems
+- Machine learning and deep learning techniques for Cyber-Physical Systems Security
+- AI-based solutions for usable security in Cyber-Physical Systems
+- Attack Modelling and Attack Surface Estimation
+- Mitigation of cyber risks in Cyber-Physical Systems
+- Forensics and Incident Response in Cyber-Physical Systems
+- Adversarial Machine Learning for Cyber-Physical Systems
+- Intelligent Attack Detection and Prevention in Cyber-Physical Systems
+- AI and behavioural-based Access Control Solutions in Cyber-Physical Systems
+- Attack Tolerance and Mitigation Techniques in Cyber-Physical Systems
+- AI and Machine Learning for Hardware and Physical Security in Cyber-Physical System
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Important Dates
+- Chapter proposal submission: November 10, 2021
+- Notification of acceptance: November 15, 2021
+- Full chapter submission: February 1, 2022
+- Review results to authors: March 10, 2022
+- Revised chapter submission: March 15, 2022
+- Final Acceptance notification: April 1, 2022
+- Submission of final chapters: April 15, 2022
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebinsaad/AI4CPSBook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

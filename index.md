@@ -22,7 +22,7 @@ This book aims to publish high-quality original research contributions on theory
 ## Intended audience
 This book will be helpful for senior undergraduate and graduate students interested in cyber-physical systems hardening in computer science and engineering.  Professionals  and researchers interested in cyber-physical systems and the application of AI in systems hardening will gain an in-depth overview of the current state-of-the-art.
 
-## Reconneded Topics
+## Recommended Topics
 Recommended topics for chapters include, but are not limited to, the following:
 
 1. Cybersecurity automation and scalability

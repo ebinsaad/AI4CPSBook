@@ -53,7 +53,7 @@ review.
 - Submission of final chapters: April 25, 2022
 
 ## Chapter Template
-Please use the following chapter template to prpare your chapter
+Please use the following [chapter template](chapter_template(latex,word).zip)to prpare your chapter
 
 
 ## Support or Inquiries
